@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Protest//Event//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:7f6682e8-863b-46e9-8737-fff48ad8331d@protest.local
+DTSTAMP:20260920T000740Z
+DTSTART:20261017T210000Z
+DTEND:20261017T220000Z
+SUMMARY:Keep our library open
+DESCRIPTION:A peaceful gathering for a library that stays open to everyon
+ e.\nKeep evening hours in the next library budget.\nMeet beside the libra
+ ry steps at the east entrance. This is a fictional example\, not an actua
+ l event.
+LOCATION:Civic Square\, Fictional example location
+URL:https://agammann.github.io/protest-example/
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
