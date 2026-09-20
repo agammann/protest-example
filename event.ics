@@ -4,7 +4,7 @@ PRODID:-//Protest//Event//EN
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
 UID:7f6682e8-863b-46e9-8737-fff48ad8331d@protest.local
-DTSTAMP:20260920T000740Z
+DTSTAMP:20260920T001122Z
 DTSTART:20261017T210000Z
 DTEND:20261017T220000Z
 SUMMARY:Keep our library open
@@ -14,6 +14,6 @@ DESCRIPTION:A peaceful gathering for a library that stays open to everyon
  l event.
 LOCATION:Civic Square\, Fictional example location
 URL:https://agammann.github.io/protest-example/
-STATUS:CONFIRMED
+STATUS:CANCELLED
 END:VEVENT
 END:VCALENDAR

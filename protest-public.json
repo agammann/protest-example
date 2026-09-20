@@ -18,8 +18,8 @@
   "bring": "Water, weather appropriate clothing, and a sign if you would like.",
   "contact": "",
   "sources": [],
-  "status": "scheduled",
-  "update": "",
+  "status": "cancelled",
+  "update": "Demonstration of a cancellation notice. This example never represented an actual event.",
   "theme": "signal",
   "format": "letter"
 }
